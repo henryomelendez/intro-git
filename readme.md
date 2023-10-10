@@ -8,4 +8,3 @@ A simple repo to help us learn Git.
 4. Edit `readme.md` under `student` folder
 5. Push your changes.
 
-# A Changed readme File
